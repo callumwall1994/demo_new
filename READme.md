@@ -1,13 +1,5 @@
 #Demo Project README
 
-Simple readme file
-
-More text
-
-<<<<<<< HEAD
-I hope this doesnt cause t
-=======
-This is gonna cause trouble
->>>>>>> very-bad
-
-NO
+| Source Table   | Source Fields   | Target Field      | Include | Concat | Data Type  | Null | Default Value | Model Field    | Type of Field         |
+| -------------- | --------------- | ----------------- | ------- | ------ | ---------- | ---- | ------------- | -------------- | --------------------- |
+|                | IDENTITY(1,1)   | 			|        |       |  	      |       |               |                |                       |
